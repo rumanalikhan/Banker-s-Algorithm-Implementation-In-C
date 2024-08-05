@@ -1,4 +1,4 @@
-# Banker-s-Algorithm-Implementation-In-C
+# Banker's-Algorithm-Implementation-In-C
 
 ## Overview
 This project implements the Banker's Algorithm for multiple instances dynamically in the C programming language. The Banker's Algorithm is a resource allocation and deadlock avoidance algorithm that helps manage multiple processes and resources, ensuring the system remains in a safe state by preventing deadlock conditions.
